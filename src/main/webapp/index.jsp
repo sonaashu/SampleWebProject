@@ -8,6 +8,8 @@
     <label for="male">Male</label>
     <input type="radio" name="sex" id="female" value="female">
     <label for="female">Female</label> <br><br>
+    <input type="radio" name="sex" id="Other" value="Other">
+    <label for="Other">Other</label> <br><br>
     <label for="country">Country: </label>
     <select name="country" id="country">
         <option>Select an option</option>
