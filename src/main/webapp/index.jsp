@@ -1,5 +1,7 @@
 <form>
-    <label for="First name">Name:</label>
+    <label for="First name">First Name:</label>
+    <input type="text" name="name"><br><br>
+    <label for="Second name">Secons Name:</label>
     <input type="text" name="name"><br><br>
     <label for="sex">Sex:</label>
     <input type="radio" name="sex" id="male" value="male">
